@@ -1,3 +1,15 @@
+```
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Application containerization and orchestration](https://github.com/itmo-ict-faculty/application-containerization-and-orchestration)
+Year: 2023/2024
+Group: K4111c
+Author: Tarzyan Vera Pavlovna
+Practice: practice1
+Date of create: 
+Date of finished: 
+```
+
 Для выполнения практической работы напишем приложение на языке JavaScript, которое будет отвечать следующим требованиям:
 - Выполняет одну полезную функцию: приложение говорит вам, какой вы сегодня зверёк
 - Может быть контейнеризировано
