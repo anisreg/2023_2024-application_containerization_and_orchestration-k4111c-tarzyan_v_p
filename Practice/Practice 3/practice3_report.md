@@ -6,7 +6,7 @@ Course: [Application containerization and orchestration](https://github.com/itmo
 Year: 2023/2024
 Group: K4111c
 Author: Tarzyan Vera Pavlovna
-Practice: practice2
+Practice: practice3
 Date of create: 
 Date of finished:
 ```
